@@ -1,0 +1,11 @@
+.notificationNumberLink{
+    position: relative;
+}
+.notificationNumber{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top:0 ;
+    left: 17px;
+}
